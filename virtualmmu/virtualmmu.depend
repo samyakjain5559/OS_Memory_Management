@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618186555 source:/eecs/home/samayak/Desktop/eecs3221_workspace/virtualmmu/mmu.c
+	<stdio.h>
+	<stdlib.h>
+
